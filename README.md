@@ -4,7 +4,7 @@ A machine learning project that predicts the likelihood of heart disease from
 patient clinical data, built and evaluated on the UCI-style Heart Failure
 Prediction dataset.
 
-**🔗 Live app:** [add your Emergent-hosted link here]
+**🔗 Live app:** [https://heartbeat-predictor-1.preview.emergentagent.com/?utm_source=share]
 
 ## What's in this repo
 

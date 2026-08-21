@@ -25,8 +25,8 @@ the UI/deployment — my focus for this project was the data science: cleaning
 messy real-world health data, comparing models properly, and understanding
 *why* one performed better than another, not just calling `.fit()`.
 
-🔗 Live app: [link]
-💻 Code + notebook: [GitHub link]
+🔗 Live app: [https://heartbeat-predictor-1.preview.emergentagent.com/?utm_source=share]
+💻 Code + notebook: []
 
 Would love feedback from anyone who's worked on clinical/health datasets —
 curious how you handle imputation decisions like the zero-value issue I ran
